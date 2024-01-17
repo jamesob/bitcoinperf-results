@@ -1,0 +1,4 @@
+configure: WARNING: Found Berkeley DB other than 4.8
+configure: WARNING: BDB (legacy) wallets opened by this build will not be portable!
+configure: WARNING: libzmq version 4.x or greater not found, disabling
+1780444;16.00;103.16
